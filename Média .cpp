@@ -3,11 +3,11 @@ using namespace std;
 
 int main()
 {
-	int media;
-	int valor1;
-	int valor2;
-	int valor3;
-	int valor4;
+	double media;
+	double valor1;
+	double valor2;
+	double valor3;
+	double valor4;
 	
 	cout << "Informe o primeiro valor: ";
 	cin >> valor1;
